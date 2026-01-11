@@ -105,10 +105,6 @@ streamlit run app.py
 
 This tool is for informational purposes only and does not constitute legal advice. Always consult with a qualified attorney for legal matters. The generated documents should be reviewed by a legal professional before use.
 
-## License
-
-MIT License
-
 ## Support
 
 For support or feature requests, please open an issue in the repository. 
