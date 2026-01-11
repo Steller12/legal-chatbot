@@ -143,7 +143,7 @@ with col1:
                     Please generate a complete legal document with all necessary sections and clauses."""
 
                     # Initialize the model
-                    model = genai.GenerativeModel('gemini-1.5-pro')
+                    model = genai.GenerativeModel('gemini-2.5-flash-lite')
                     
                     # Generate the document
                     response = model.generate_content(prompt)
